@@ -1,0 +1,77 @@
+nav {
+	text-align: center;
+	font-family: helvetica;
+	padding: 10px 0 10px 0;
+	color: black;
+}
+
+strong {
+	font-style: italic;
+}
+
+h1 {
+	color: #00008B;
+	padding-top: 10px;
+	font-family: helvetica;
+	text-align: center;
+}
+
+h2 {
+	color: #00008B;
+	margin: auto;
+	font-family: helvetica;
+}
+
+h3 {
+	color: #00008B;
+	margin: auto;
+	font-family: helvetica;
+}
+
+a {
+	font-weight: bold;
+	color: black
+}
+
+p {
+	font-size: 18px;
+	color: black;
+	text-align: justify;
+	padding: 0 10px 0 10px;
+}
+
+ul {
+	text-align: left;
+	color: #ff3399;
+}
+
+img {
+  	border: 3px solid grey;
+}
+
+.profile {
+	float: right;
+	width: 100px;
+	border: 6px grey;
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+}
+
+.portfolio {
+	padding: 5px 5px 5px 5px;
+	width: 300px;
+}
+
+hr {
+	border-color: #ff3399;
+	border-size: 2px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+    font-family: helvetica;
+    text-align: center;
+}
